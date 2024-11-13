@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to right, #f0f4f8, #d9e2ec);
+
+}
+
+.background-color{
+    background: linear-gradient(to right, #f0f4f8, #d9e2ec);
+}
+
+.profile-image{
+    border-radius: 50%;
+}
