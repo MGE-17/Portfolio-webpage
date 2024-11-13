@@ -18,3 +18,21 @@ body{
 .logos{
     padding-bottom: 1rem;
 }
+.img-porfolio{
+    height: 18.75rem;
+}
+
+.about-me{
+    margin-top: 2rem;
+}
+
+.img-container{
+    display: flex;
+    justify-content: space-around;
+}
+.crypto-img{
+    width: 6rem;
+    height: 5rem;
+    margin: 1rem;
+}
+
