@@ -10,3 +10,11 @@ body{
 .profile-image{
     border-radius: 50%;
 }
+
+.card-sizing{
+    height: 31.25rem;
+}
+
+.logos{
+    padding-bottom: 1rem;
+}
